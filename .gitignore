@@ -1,0 +1,5 @@
+bazel-bin
+bazel-lykkeprints
+bazel-out
+bazel-testlogs
+
